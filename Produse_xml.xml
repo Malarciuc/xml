@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data_catalogului data="2020-23-11">
+<magazin_online>
+
+<categorii>
+<categorie id="1">Incaltaminte pentru femei</categorie>
+<produs id="01" parinteId="1">
+	<denumire_produs> Pantofii pentru ceremonii </denumire_produs>
+	<pret_produs>150</pret_produs>
+	<valuta>EUR</valuta>
+	<marimi_disponibile>35; 36; 37; 38</marimi_disponibile>
+</produs>
+<produs id="02" parinteId="1">
+	<denumire_produs> Sandale </denumire_produs>
+	<pret_produs>400</pret_produs>
+	<valuta>MDL</valuta>
+	<marimi_disponibile>35; 36; 37; 38; 39; 40</marimi_disponibile>
+</produs>
+
+<produs id="03" parinteId="1">
+	<denumire_produs> Botine </denumire_produs>
+	<pret_produs>870</pret_produs>
+	<valuta>MDL</valuta>
+	<marimi_disponibile>35; 36; 37; 38; 39; 40; 41</marimi_disponibile>
+</produs>
+
+<produs id="04" parinteId="1">
+	<denumire_produs> Adidasi </denumire_produs>
+	<pret_produs>900</pret_produs>
+	<valuta>MDL</valuta>
+	<marimi_disponibile>37; 38; 39; 40; 41; 42; 43</marimi_disponibile>
+</produs>
+
+<produs id="05" parinteId="1">
+	<denumire_produs> Cizme din piele</denumire_produs>
+	<pret_produs>1200</pret_produs>
+	<valuta>MDL</valuta>
+	<marimi_disponibile>36; 37; 38; 39; 40; 41</marimi_disponibile>
+</produs>
+
+<categorie id="2">Incaltaminte pentru barbati</categorie>
+<produs id="001" parinteId="2">
+	<denumire_produs> Pantofi de toamna </denumire_produs>
+	<pret_produs>500</pret_produs>
+	<valuta>MDL</valuta>
+	<marimi_disponibile>39; 40; 41; 42; 43; 44; 45</marimi_disponibile>
+</produs>
+<produs id="002" parinteId="2">
+	<denumire_produs> Macasine </denumire_produs>
+	<pret_produs>250</pret_produs>
+	<valuta>MDL</valuta>
+	<marimi_disponibile>39; 40; 41; 42; 43</marimi_disponibile>
+</produs>
+<produs id="003" parinteId="2">
+	<denumire_produs> Botine </denumire_produs>
+	<pret_produs>700</pret_produs>
+	<valuta>MDL</valuta>
+	<marimi_disponibile>40; 41; 42; 43</marimi_disponibile>
+</produs>
+<produs id="004" parinteId="2">
+	<denumire_produs> Adidasi </denumire_produs>
+	<pret_produs>1000</pret_produs>
+	<valuta>MDL</valuta>
+	<marimi_disponibile>40; 41; 42; 43; 44; 45</marimi_disponibile>
+</produs>
+<produs id="005" parinteId="2">
+	<denumire_produs> Cizme din piele</denumire_produs>
+	<pret_produs>1200</pret_produs>
+	<valuta>MDL</valuta>
+	<marimi_disponibile>38; 39; 40; 41; 42; 43; 44</marimi_disponibile>
+</produs>
+
+<categorie id="3">Incaltaminte pentru ocazii</categorie>
+<produs id="0001" parinteId="3">
+	<denumire_produs>Gnatkovskih</denumire_produs>
+	<pret_produs>1200</pret_produs>
+	<valuta>EUR</valuta>
+	<marimi_disponibile>36; 37; 38; 39; 40; 41</marimi_disponibile>
+</produs>
+<produs id="0002" parinteId="3">
+	<denumire_produs>Jenny Cristal</denumire_produs>
+	<pret_produs>1000</pret_produs>
+	<valuta>EUR</valuta>
+	<marimi_disponibile>36; 37; 38; 39; 40; 41</marimi_disponibile>
+</produs>
+<produs id="0003" parinteId="3">
+	<denumire_produs>Julia Kosova</denumire_produs>
+	<pret_produs>400</pret_produs>
+	<valuta>EUR</valuta>
+	<marimi_disponibile>36; 37; 38; 39; 40; 41</marimi_disponibile>
+</produs>
+<produs id="0003" parinteId="3">
+	<denumire_produs>VolSTan</denumire_produs>
+	<pret_produs>350</pret_produs>
+	<valuta>EUR</valuta>
+	<marimi_disponibile>36; 37; 38; 39; 40; 41; 42; 43</marimi_disponibile>
+</produs>
+</categorii>
+</magazin_online>
+</data_catalogului>
